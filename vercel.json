@@ -13,7 +13,7 @@
         },
         {
           "key": "Permissions-Policy",
-          "value": "camera=*"
+          "value": "camera=*, microphone=*"
         }
       ]
     }
